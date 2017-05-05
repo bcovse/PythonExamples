@@ -1,0 +1,119 @@
+{
+   "publisher-upload-manifest":{
+      "cuepoint":[
+         {
+            "video-refid":"SUN_BIF_101_DAI",
+            "type":"AD",
+            "name":"Ad Break 1",
+            "time":"493000"
+         },
+         {
+            "video-refid":"SUN_BIF_101_DAI",
+            "type":"AD",
+            "name":"Ad Break 2",
+            "time":"938000"
+         }
+      ],
+      "thumb":{
+         "filename":"thumb1.jpg"
+      },
+      "dfxp":{
+         "filename":"PRE_100_D1_R.dfxp"
+      },
+      "title":{
+         "name":"SUN_REC_101_INGEST_TEST",
+         "start-date":"11/09/2016 12:00 AM",
+         "video-full-refid":"SUN_BIF_101_DAI",
+         "long-description":"Joel Woolf, alternative-fuel enthusiast and inventor of Veg Powered Systems, drag races his truck fueled by the vegetable oil from a fried-chicken tailgate party.",
+         "tag":[
+            "Big Ideas for a Small Planet",
+            "environment",
+            "green",
+            "world",
+            "interview",
+            "reality",
+            "sustainable",
+            "earth",
+            "health",
+            "television",
+            "SundanceTV",
+            "sundance",
+            "planet"
+         ],
+         "custom-string-value":[
+            {
+               "text":"Full Episode",
+               "name":"video-type"
+            },
+            {
+               "text":"Yves Behar, Majora Carter, Bob Costas, Laurie David",
+               "name":"cast-members"
+            },
+            {
+               "text":"1",
+               "name":"season-number"
+            },
+            {
+               "text":"Fuel",
+               "name":"episode-title"
+            },
+            {
+               "text":"Rectify",
+               "name":"show-name"
+            },
+            {
+               "text":"01",
+               "name":"episode-number"
+            },
+            {
+               "text":"04/17/2007",
+               "name":"premiere-date"
+            },
+            {
+               "text":"No",
+               "name":"feature"
+            },
+            {
+               "text":"TV-14",
+               "name":"rating"
+            },
+            {
+               "text":"http://vtt.amcnetworks.com/sundancetv/BIF_101_Nov16.vtt",
+               "name":"captions"
+            }
+         ],
+         "active":"TRUE",
+         "short-description":"Big Ideas for a Small Planet on fuel.",
+         "end-date":"01/08/2017 11:59 PM",
+         "refid":"SUN_REC_101_INGEST_TEST"
+      },
+      "publisher-id":"5049773606001",
+      "vtt":{
+         "filename":"AMC_TD_706_Highlights.vtt"
+      },
+      "report-success":"true",
+      "thumb2":{
+         "filename":"thumb2.jpg"
+      },
+      "notify":{
+         "email":"greg.granito@amcnetworks.com"
+      },
+      "scc":{
+         "filename":"PRE_100_D1_R.scc"
+      },
+      "preparer":"Erika Herzog",
+      "tt":{
+         "filename":"AMC_TD_706_Highlights.tt"
+      },
+      "asset":{
+         "encode-multiple":"TRUE",
+         "hash-code":"446f1697a8607d42b4802e789c36365c",
+         "filename":"AMC_TD_706_Highlights.mov",
+         "encode-to":"MP4",
+         "display-name":"SUN_REC_101_INGEST_TEST",
+         "type":"VIDEO_FULL",
+         "refid":"SUN_BIF_101_DAI",
+         "size":"157009325"
+      }
+   }
+}

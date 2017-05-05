@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publisher-upload-manifest publisher-id="5049773606001" preparer="Erika Herzog" report-success="true">
+<notify email="greg.granito@amcnetworks.com"/>
+<asset filename="AMC_TD_706_Highlights.mov" refid="SUN_BIF_101_DAI" size="157009325" hash-code="446f1697a8607d42b4802e789c36365c" display-name="SUN_REC_101_INGEST_TEST" type="VIDEO_FULL" encode-to="MP4" encode-multiple="TRUE"/>
+<tt filename="AMC_TD_706_Highlights.tt"/>
+<vtt filename="AMC_TD_706_Highlights.vtt"/>
+<thumb filename="thumb1.jpg"/>
+<thumb2 filename="thumb2.jpg"/>
+<dfxp filename="PRE_100_D1_R.dfxp"/>
+<scc filename="PRE_100_D1_R.scc"/>
+
+<title name="SUN_REC_101_INGEST_TEST" refid="SUN_REC_101_INGEST_TEST" active="TRUE" start-date="11/09/2016 12:00 AM" end-date="01/08/2017 11:59 PM" video-full-refid="SUN_BIF_101_DAI">
+ <short-description>Big Ideas for a Small Planet on fuel.</short-description>
+ <long-description>Joel Woolf, alternative-fuel enthusiast and inventor of Veg Powered Systems, drag races his truck fueled by the vegetable oil from a fried-chicken tailgate party.</long-description>
+ <tag>Big Ideas for a Small Planet</tag>
+ <tag>environment</tag>
+ <tag>green</tag>
+ <tag>world</tag>
+ <tag>interview</tag>
+ <tag>reality</tag>
+ <tag>sustainable</tag>
+ <tag>earth</tag>
+ <tag>health</tag>
+ <tag>television</tag>
+ <tag>SundanceTV</tag>
+ <tag>sundance</tag>
+ <tag>planet</tag>
+ <custom-string-value name="video-type">Full Episode</custom-string-value>
+ <custom-string-value name="cast-members">Yves Behar, Majora Carter, Bob Costas, Laurie David</custom-string-value>
+ <custom-string-value name="season-number">1</custom-string-value>
+ <custom-string-value name="episode-title">Fuel</custom-string-value>
+ <custom-string-value name="show-name">Rectify</custom-string-value>
+ <custom-string-value name="episode-number">01</custom-string-value>
+ <custom-string-value name="premiere-date">04/17/2007</custom-string-value>
+ <custom-string-value name="feature">No</custom-string-value>
+ <custom-string-value name="rating">TV-14</custom-string-value>
+<custom-string-value name="captions">http://vtt.amcnetworks.com/sundancetv/BIF_101_Nov16.vtt</custom-string-value>
+</title>
+<cuepoint name="Ad Break 1" type="AD" time="493000" video-refid="SUN_BIF_101_DAI"/>
+<cuepoint name="Ad Break 2" type="AD" time="938000" video-refid="SUN_BIF_101_DAI"/>
+</publisher-upload-manifest>
